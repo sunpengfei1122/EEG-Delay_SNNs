@@ -1,2 +1,4 @@
 # EEG-Delay_SNNs
-We will release the dataset and processing code (including the baseline and training of delays) after the paper review.
+You can request the dataset and processing code via Email (sunpengfei1122 AT hotmail.com).
+
+
